@@ -1,0 +1,6 @@
+# Spring Boot
+target/
+*.class
+application-local.properties
+application.properties
+hibernate.cfg.xml
