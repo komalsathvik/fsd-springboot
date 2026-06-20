@@ -1,0 +1,4 @@
+*
+!UserDemo/
+!UserDemo/**
+!.gitignore
